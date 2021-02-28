@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../day1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hw2"
+	}
+}
